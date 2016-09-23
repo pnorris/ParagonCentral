@@ -1,0 +1,5 @@
+<resources>
+    <string name="cardsURL">https://developer-paragon.epicgames.com/v1/cards</string>
+    <string name="app_name">ParagonCentral</string>
+    <string name="json">json</string>
+</resources>
